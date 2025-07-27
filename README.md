@@ -20,9 +20,9 @@ Due to limited technical skill, this script does not support recording hotkeys. 
 
 ### event.txt
 
-Recorded actions will be stored here. You can freely edit this file if you want to change the recorded sequence.
+Recorded actions will be stored here. You can freely edit this file if you want to change the recorded sequence. Note: Make sure there are no blank lines in the file.
 
-您的被录制的操作将会存在其中，您可直接修改其中的操作。
+您的被录制的操作将会存在其中，您可直接修改其中的操作。注意：务必确保文件中没有空行。
 
 ### controller.py
 
@@ -38,3 +38,16 @@ You can also choose whether to re-enter the repeat count and speed multiplier ea
 
 你可以选择每次暂停后，继续执行时是否重新输入循环次数和运行速度倍率。
 
+### Provided scripts
+
+I've created some handy scripts that work well on my own PC. For example: repeatedly using Super Special Attack, switching blades and increasing kill count. Some scripts are for the mod `Slash and Blade`, while others are for the mod pack `Closing Song`.
+
+我写好的一些脚本一并上传，如连发SSA，切刀刷杀敌（用千杀刀SSA并把杀敌数算在另一把刀上）。有的脚本是给拔刀剑的，有的则是给落幕曲的（如祛魔刷等级）。
+
+Feel free to use or modify them — but I can't guarantee they'll work properly on your system.
+
+请随意使用和修改———但我并不保证你能正常使用。
+
+P.S. The script filenames include the recommended speed ratios.
+
+PS. 脚本名字上的数字为建议速度倍率。
