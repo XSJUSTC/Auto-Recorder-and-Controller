@@ -1,0 +1,6 @@
+1 clickButton (1125, 425, 'Button.left')
+2 clickButton (800, 411, 'Button.left')
+3 clickButton (970, 404, 'Button.left')
+4 clickButton (1114, 406, 'Button.left')
+5 clickButton (800, 417, 'Button.left')
+6 clickButton (971, 409, 'Button.left')

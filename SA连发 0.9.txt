@@ -1,0 +1,6 @@
+0.02 pressButton (960, 540, 'Button.right')
+0.32 releaseButton (959, 541, 'Button.right')
+0.34 pressButton (960, 540, 'Button.right')
+0.64 releaseButton (958, 542, 'Button.right')
+0.66 pressButton (961, 540, 'Button.right')
+0.96 releaseButton (960, 540, 'Button.right')

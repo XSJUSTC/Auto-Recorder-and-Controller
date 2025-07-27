@@ -1,0 +1,10 @@
+0.5 releaseKeyCode v
+1 releaseKeyCode f
+1.5 pressKeyCode v
+2.8 pressKeyCode f
+2.85 releaseKeyCode f
+2.8546 releaseKeyCode v
+3 pressKeyCode f
+3.1 releaseKeyCode f
+9.8 pressKeyCode e
+10.6 releaseKeyCode e
